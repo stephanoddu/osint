@@ -1,3 +1,3 @@
 Le flag est sous la forme
-hash_md5(La 15 eme lettre de l'adresse mail de stephane + Première lettre de la ville de la photo du début + la première lettre de la rue de ou a été prise la photo du début + la deuxième lettre de la passion de stephane +1re lettre du nom de famille de stephane + le groupe sanguin de stephane)
+hash_md5(La 15 eme lettre de l'adresse mail de stephane + Première lettre de la ville de la photo du début + la première lettre de la rue de ou a été prise la photo du début + la deuxième lettre de la passion de stephane +1er lettre du nom de famille de stephane + le groupe sanguin de stephane)
 Toutes les lettres doivent être en minuscule.
